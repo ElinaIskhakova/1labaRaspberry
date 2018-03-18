@@ -1,11 +1,15 @@
 #ifndef MYCLASS_H
 #define MYCLASS_H
-
+#include <string>
 
 class MyClass
 {
 public:
-    MyClass();
+   void MyClass()
+   void getStroka ()
+
+private:
+	std::string stroka;
 };
 
 #endif // MYCLASS_H
