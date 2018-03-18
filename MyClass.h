@@ -5,8 +5,9 @@
 class MyClass
 {
 public:
-   void MyClass()
+   MyClass()
    void getStroka ()
+   void setStroka()
 
 private:
 	std::string stroka;

@@ -5,9 +5,12 @@ MyClass::MyClass()
 	
 }
 
-void getstroka(std:: string stroka)
+void getStroka(std:: string stroka)
 {
   cout<<stroka<<endl;
 }
 
-
+void setStroka (std:: string stroka)
+{
+  cin>>stroka;
+}
